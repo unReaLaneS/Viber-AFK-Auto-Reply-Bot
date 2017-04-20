@@ -1,0 +1,9 @@
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\bin\Debug\ViberAutoReply.exe.config
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.csprojResolveAssemblyReference.cache
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.Properties.Resources.resources
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.csproj.GenerateResource.Cache
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\bin\Debug\ViberAutoReply.exe
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\bin\Debug\ViberAutoReply.pdb
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.exe
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.pdb
+C:\Users\unReaL\Desktop\ViberAutoReply\ViberAutoReply\obj\Debug\ViberAutoReply.Form1.resources
